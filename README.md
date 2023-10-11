@@ -52,6 +52,12 @@ To fix bugs, make improvements, or add new features to the project, please follo
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## References
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was inspired by and utilized the following resources:
+
+- [flutter_instagram_stories by MarcusNg](https://github.com/MarcusNg/flutter_instagram_stories/tree/master): A Flutter project that implements Instagram stories.
+  
+- [YouTube Tutorial by Marcus Ng](https://www.youtube.com/watch?v=ilX5hnH8XoI): A tutorial video that explains the implementation of Instagram stories in Flutter.
+
+- [flutter_instagram_stories by awaik](https://github.com/awaik/flutter_instagram_stories/tree/master): Another implementation of Instagram stories in Flutter, providing different perspectives and functionalities.
